@@ -10,7 +10,7 @@ Cette application de chat permet aux utilisateurs de s'inscrire, de se connecter
 - **Register :** Les nouveaux utilisateurs peuvent créer un compte en fournissant un nom d'utilisateur, une adresse e-mail et un mot de passe.
 
 ### Profil utilisateur
-- **Profil :** Chaque utilisateur a un profil affichant des informations telles que son nom d'utilisateur, son adresse e-mail et une image de profil.
+- **Profil :** Chaque utilisateur a un profil affichant des informations telles que son nom d'utilisateur et une image de profil.
 
 ### Salons de discussion
 - **Liste des rooms :** Les utilisateurs peuvent voir la liste des salons de discussion disponibles.
